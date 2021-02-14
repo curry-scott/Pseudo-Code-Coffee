@@ -4,7 +4,7 @@
 Make a cup of coffee with a Keurig coffee maker. 
 
 
-![](Keurig.png) ![](Keurig-Holder.jpg)
+![](Keurig.png) ![](Keurig-Holder.png)
 
 ## Operation
 1. Plug in power cord attached to back of coffee machine.
