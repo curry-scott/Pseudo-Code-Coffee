@@ -4,38 +4,53 @@
 Make a cup of coffee with a Keurig coffee maker. 
 
 
-![](Keurig.png)
+![](Keurig.png) ![](Keurig1.jpg)
+
+## Operation
+1. Plug in power cord attached to back of coffee machine.
+
+2. Press small round power button on top of machine.  The power
+button will illuminate.
+
+3. Lift the water reservoir lid and pour desired amount of water 6oz, 8oz, 10oz or 12oz into the reservoir.
+
+4. Close water reservoir lid. 
+
+5. Place coffee mug on the drip tray. Under the spout. 
+
+6. Choose desired K-Cup pod from drawer under Keurig coffee machine. 
+
+7. Lift the handle.
+
+9. Place a K-Cup pod in
+the K-Cup® pod holder.
+
+10.  Lower the handle
+completely to close the lid.
+
+11. The brew
+indicator light will flash to indicate that
+the brewer is ready. Do not remove the
+foil lid on the K-Cup® pod.
+
+12. For bolder
+coffee, press the STRONG button before pressing the brew button.
+
+13. Press the desired brew button fill size 6oz, 8oz, 10oz or 12oz.
+
+14. Wait while the desired coffee brew size begin to dispense.
+
+15. Brewing is complete when the brew indicator light is no longer illuminated.
+
+16. When complete,
+lift the handle and dispose of the used K-Cup pod.
+
+17. Enjoy your cup of coffee. 
+
+
+
 
 ## Instructions:
-    1. Open lid on top side of coffee maker that says "Water"
-    2. Fill "Water" container on top 
-    3. Grab favorite K-cup out of drawer Keurig coffee maker is sitting on. 
-    4. Open front top lid on Keurig. 
-    5. Place K-cup in designated location. 
-    6. Close lip on top of K-cup. 
-    7. Sit coffee mug under dispenser.
-    8. Select size/ounces you want.
-    9. Wait for your cup of coffee   to be dispensed. 
-    10. Enjoy the cup of coffee. 
+    
 
-
-
-## Operation:
-    1. If water is in machine
-        Then allow machine to dispense
-       If water isn't in machine
-        Then refill the machine with water 
-    2. If machine has water
-        Then allow machine to dispense
-       If machine doesn't have water
-        Then give "Water Needed" display 
-    3. If K-cup is in machine
-        Then allow machine to make correct ounces of coffee
-       If K-cup isnt in machine 
-        Then allow machine to dispense selected ounces of water
-    4. If machine has dispensed correct ounces of water
-        Then stop machine
-       If machine hasn't dispensed correct amount of water
-        Then continue dispensing
-        
 
