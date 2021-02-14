@@ -4,7 +4,7 @@
 Make a cup of coffee with a Keurig coffee maker. 
 
 
-![](Keurig1.png)
+![](Keurig.png)
 
 ## Instructions:
     1. Open lid on top side of coffee maker that says "Water"
