@@ -1,7 +1,10 @@
 # *Making a cup of coffee*
 
-## Input
-We are talking about a Keurig coffee maker. 
+## Objective:
+Make a cup of coffee with a Keurig coffee maker. 
+
+
+![](Keurig.png)
 
 ## Instructions:
     1. Open lid on top side of coffee maker that says "Water"
