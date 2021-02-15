@@ -57,83 +57,85 @@ lift the handle on top front of coffee machine.
 
 
 ## Instructions:
-1. If power cord is inserted into power socket in wall<br>
+1.  If power cord is inserted into power socket in wall<br>
     Then proceed to step 2<br> 
-   If power cord is not inserted into power socket in wall<br>
+    If power cord is not inserted into power socket in wall<br>
     Then plug power cord into power socket in desired wall<br>
 
-2. If power is off<br>
+2.  If power is off<br>
     Then press small round power button on top of machine. The power button will illuminate.<br>
     If power is on<br>
     Then proceed to step 3<br>
 
-3. If brew indicator light is flashing
-    Then proceed to step 4
-    If brew indicator light is not flashing
-    Then wait for brew light to start flashing
+3.  If brew indicator light is flashing<br>
+    Then proceed to step 4<br>
+    If brew indicator light is not flashing<br>
+    Then wait for brew light to start flashing<br>
 
-4. If water reservoir lid on top back of coffee machine is closed
-    Then open water reservoir lid on top back of coffee machine
-    If Water reservoir lid is open on top back 
-    Then proceed to step 5
+4.  If water reservoir lid on top back of coffee machine is closed<br>
+    Then open water reservoir lid on top back of coffee machine<br>
+    If Water reservoir lid is open on top back<br>
+    Then proceed to step 5<br>
 
-5. If no water in water reservoir 
-    Then pour desired amount 6oz, 8oz, 10oz or 12oz
-    If water is in the water reservoir 
-    Then proceed to step 6    
+5.  If no water in water reservoir<br> 
+    Then pour desired amount 6oz, 8oz, 10oz or 12oz<br>
+    If water is in the water reservoir<br> 
+    Then proceed to step 6<br>    
 
-6. If water reservoir is open on top back of machine
-    Then close water reservoir lid
-    If water reservoir is closed then repeat back to step 4
+6.  If water reservoir is open on top back of machine<br>
+    Then close water reservoir lid<br>
+    If water reservoir is closed <br>
+    Then repeat back to step 4<br>
 
-7.  If no coffee mug on drip tray under spout
-    Then grab a mug from left side of coffee machine
-    If coffee mug is on drip tray under spout 
-    Then proceed to step 8
+7.  If no coffee mug on drip tray under spout<br>
+    Then grab a mug from left side of coffee machine<br>
+    If coffee mug is on drip tray under spout<br> 
+    Then proceed to step 8<br>
 
-8.  If coffee mug grabbed
-    Then place on drip tray under spout
-    If no coffee mug grabbed 
-    Then go back to step 7
+8.  If coffee mug grabbed<br>
+    Then place on drip tray under spout<br>
+    If no coffee mug grabbed<br> 
+    Then go back to step 7<br>
 
-9.  If no K-Cup 
-    Then choose desired flavor located on right side of coffee machine
+9.  If no K-Cup<br> 
+    Then choose desired flavor located on right side of coffee machine<br>
 
-10. If K-cup placement handle is closed
-    Then lift hangle on front top of coffee manchine 
+10. If K-cup placement handle is closed<br>
+    Then lift hangle on front top of coffee manchine<br> 
 
-11. If no unused K-Cup in K-Cup holder
-    Then place desired K-Cup pod in K-Cup holder. 
+11. If no unused K-Cup in K-Cup holder<br>
+    Then place desired K-Cup pod in K-Cup holder<br> 
 
-12. If K-Cup holder lid is open
-    Then close the lid
+12. If K-Cup holder lid is open<br>
+    Then close the lid<br>
 
-13. If brew indicator light is flashing 
-    Then ready to brew. 
-    If brew light indicator is not flashing then wait until flashing beginss
+13. If brew indicator light is flashing<br> 
+    Then ready to brew<br>
+    If brew light indicator is not flashing<br> T
+    hen wait until flashing beginss<br>
 
-14. If bolder coffee is preferred 
-    Then press STRONG button 
-    If no bolder coffee is preferred continue to 15
+14. If bolder coffee is preferred<br> 
+    Then press STRONG button<br> 
+    If no bolder coffee is preferred continue to 15<br>
 
-15. If 6oz is preferred
-    Then press 6oz 
-    If 8oz is preferred 
-    Then press 8oz
-    If 10oz is preferred
-    Then press 10oz
-    If 12oz is preferred
-    Then press 12oz
+15. If 6oz is preferred<br>
+    Then press 6oz<br> 
+    If 8oz is preferred<br> 
+    Then press 8oz<br>
+    If 10oz is preferred<br>
+    Then press 10oz<br>
+    If 12oz is preferred<br>
+    Then press 12oz<br>
 
-16. If coffee is being dispensed 
-    Then wait until completed 
-    If coffee isnt being dispensed 
-    Then repeat step 15
+16. If coffee is being dispensed<br> 
+    Then wait until completed<br> 
+    If coffee isnt being dispensed<br> 
+    Then repeat step 15<br>
 
-17. If the brew indicator light is not loger illuminated 
-    Then coffee is brewed
-    If the brew indicator light is on 
-    Then wait until light turns off
+17. If the brew indicator light is not loger illuminated<br> 
+    Then coffee is brewed<br>
+    If the brew indicator light is on<br>
+    Then wait until light turns off<br>
 
 18.  
 
