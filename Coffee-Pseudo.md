@@ -57,7 +57,7 @@ lift the handle on top front of coffee machine.
 
 
 ## Instructions:
-1.  If power cord is inserted into power socket in wall 
+1.  If power cord is inserted into power socket in wall<br>
         Then proceed to step 2 
     If power cord is not inserted into power socket in wall
         Then plug power cord into power socket in desired wall
