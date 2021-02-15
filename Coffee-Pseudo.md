@@ -44,12 +44,7 @@ completely to close the lid.
 
 17. Brewing is complete when the brew indicator light is no longer illuminated.
 
-18. When complete,
-lift the handle on top front of coffee machine.
-
-19. Remove the used K-Cup pod from coffee machine.
-
-20. Dispose used K-Cup pod in trash
+18. Remove mug of coffee. 
 
 19. Enjoy your cup of coffee. 
 
@@ -137,7 +132,16 @@ lift the handle on top front of coffee machine.
     If the brew indicator light is on<br>
     Then wait until light turns off<br>
 
-18.  
+18. If coffee has been brewed<br>
+    Then remove brewed coffee mug from drip tray under spout<br>
+    If coffee has not been brewed<br>
+    Then continue waiting<br>
+
+19. If coffee mug is removed from drip tray under spout<br>
+    Then enjoy your cup of coffee<br>
+    If coffee mug has not been removed<br>
+    Then refer back to step 18<br>
+        
 
           
 
