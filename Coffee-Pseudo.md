@@ -57,32 +57,32 @@ lift the handle on top front of coffee machine.
 
 
 ## Instructions:
-1.  If power cord is inserted into power socket in wall<br>
-        -Then proceed to step 2<br> 
-    If power cord is not inserted into power socket in wall<br>
-        -Then plug power cord into power socket in desired wall<br>
+1. If power cord is inserted into power socket in wall<br>
+    Then proceed to step 2<br> 
+   If power cord is not inserted into power socket in wall<br>
+    Then plug power cord into power socket in desired wall<br>
 
-2.  If power is off<br>
+2. If power is off<br>
     Then press small round power button on top of machine. The power button will illuminate.<br>
     If power is on<br>
     Then proceed to step 3<br>
 
-3.  If brew indicator light is flashing
+3. If brew indicator light is flashing
     Then proceed to step 4
     If brew indicator light is not flashing
     Then wait for brew light to start flashing
 
-4.  If water reservoir lid on top back of coffee machine is closed
+4. If water reservoir lid on top back of coffee machine is closed
     Then open water reservoir lid on top back of coffee machine
     If Water reservoir lid is open on top back 
     Then proceed to step 5
 
-5.  If no water in water reservoir 
+5. If no water in water reservoir 
     Then pour desired amount 6oz, 8oz, 10oz or 12oz
     If water is in the water reservoir 
     Then proceed to step 6    
 
-6.  If water reservoir is open on top back of machine
+6. If water reservoir is open on top back of machine
     Then close water reservoir lid
     If water reservoir is closed then repeat back to step 4
 
