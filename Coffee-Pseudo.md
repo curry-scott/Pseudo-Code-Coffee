@@ -58,9 +58,9 @@ lift the handle on top front of coffee machine.
 
 ## Instructions:
 1.  If power cord is inserted into power socket in wall<br>
-    -Then proceed to step 2<br> 
+        -Then proceed to step 2<br> 
     If power cord is not inserted into power socket in wall<br>
-    -Then plug power cord into power socket in desired wall<br>
+        -Then plug power cord into power socket in desired wall<br>
 
 2.  If power is off<br>
     Then press small round power button on top of machine. The power button will illuminate.<br>
